@@ -152,13 +152,7 @@ Big believer in:
 
 | .                                                                                                                                                 | .                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![idimetrix's github stats](https://github-readme-stats.vercel.app/api?username=idimetrix&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=idimetrix&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=idimetrix"></img>
-
-<!-- dark snake -->
-
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake-dark.svg)
+| ![idimetrix's github stats](https://github-readme-stats.vercel.app/api?username=andersn0002&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andersn0002&theme=radical&layout=compact) |
 
 <!--   profile-green-animate -->
 
