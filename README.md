@@ -186,12 +186,14 @@ graph TD;
 
 ---
 
-<p align="center">Join our <a href="https://github.com/elevanceit/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Organization">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
-<img width="100%" src="./images/line.gif">
-
 <p align="center"><strong>Connect With Us</strong></p>
 
-<p align="center">
+<a href="mailto:anderns0002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/yuyasano0093)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andersn0093)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://yuyasano.vercel.app/)
+
+<!-- <p align="center">
 <a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/idimetrix">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
@@ -205,7 +207,7 @@ graph TD;
 <a href="https://elevanceit.com/">
 <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Website">
 </a>
-</p>
+</p> -->
 
 ```TypeScript
 // Check if the code is functioning correctly
