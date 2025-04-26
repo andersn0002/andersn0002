@@ -9,7 +9,7 @@ Welcome to my page; on my Github, you can find:
 
 ## 📧 You can contact me on:
 
-[![Telegram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/andersn0093)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andersn0093)
 
 _I am open to new opportunities/contributions._
 
@@ -23,56 +23,42 @@ _I am open to new opportunities/contributions._
 ## 🔖 Featured repositories:
 
 [![AI Full-Stack Engineer](https://github-readme-stats.vercel.app/api/pin/?username=andersn0002&repo=andersn0002)](https://github.com/andersn0002/andersn0002)
-[![Free CV Maker with Print-Friendly Responsive Layout](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=cv)](https://github.com/idimetrix/cv)
-[![Awesome Talents (Worldwide Talents)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-talents)](https://github.com/idimetrix/awesome-talents)
-[![Awesome Job Boards (All Job Boards)](https://github-readme-stats.vercel.app/api/pin/?username=idimetrix&repo=awesome-job-boards)](https://github.com/idimetrix/awesome-job-boards)
+[![CodeAntAI](https://github-readme-stats.vercel.app/api/pin/?username=andersn0002&repo=CodeAntAI)](https://github.com/andersn0002/CodeAntAI)
+[![mercurjs](https://github-readme-stats.vercel.app/api/pin/?username=andersn0002&repo=mercurjs)](https://github.com/andersn0002/mercurjs)
+[![aio-proxy](https://github-readme-stats.vercel.app/api/pin/?username=andersn0002&repo=aio-proxy)](https://github.com/andersn0002/aio-proxy)
 
 ---
 
 ## Personal stats:
 
-#### With over 15 years of experience and 7+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Rust, this role focuses on creating scalable, efficient, and secure applications.
+#### With over 9 years of experience and 7+ years of education in Computer Science, an AI Full-Stack Software Engineer specializes in designing and developing both web frontends and backends. Skilled in JavaScript frameworks like React, Next.js, Vue, Svelte, and Angular, and proficient with back-end technologies such as Node.js, Django, and FastAPI, this role focuses on creating scalable, efficient, and secure applications.
 
 <details>
   <summary>Highlights / Proficiencies / Interests / Believes</summary>
 
 Highlights:
 
-- ⭐ 15+ years of professional experience in full lifecycle development (web2/web3)
-- ⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
-- ⭐ Delivered over 50+ projects
-- ⭐ Worked with over 25+ companies from startup to enterprise level
-- ⭐ Delivered over 50+ projects
-- ⭐ Mentoring over 150+ individuals on how to grow their technical and leadership skills
-- ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects
-- ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies.
+- ⭐ 9+ years of professional experience in full lifecycle development
+- ⭐ 6+ years of senior AI Full-Stack software engineer
+- ⭐ Delivered over 20 projects
+- ⭐ Worked with over 6 companies from startup to enterprise level
+- ⭐ Mentoring over 20 individuals on how to grow their technical and leadership skills
 - ⭐ Worked on innovative and cutting-edge projects
-- ⭐ Contribute to industry thought leadership
 - ⭐ Contribute to open source and private source
 - ⭐ Master new technologies, master computer science and mathematics
 
 Proficiencies:
 
-- 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
+- 📚 JavaScript, TypeScript, Python, Django, FastAPI, Node.js with Serverless and Containers and Microservices architecture
 - 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
 - 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
 - 📚 Angular, RxJS, NgRx
 - 📚 Svelte and Stencil + Storybook + Web Components
 - 📚 SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis)
 - 📚 AWS, Azure and GCP
-- 📚 Go lang, Move lang, Rust
 - 📚 HTML5/CSS3 + Canvas + WebGL + Animation
 - 📚 Agile, Scrum, Kanban
-- 📚 Web2/Web3 startups
-- 📚 Cryptography (cryptocurrency and blockchain)
-- 📚 Team Leadership
-- 📚 Project Leadership
-
-Interests:
-
-- ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
-- ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
-- ✔️ Sport (gym, padel tennis, crossfit): Engage in physical activities such as gym workouts, padel tennis, and crossfit, recognizing the importance of maintaining an active and healthy lifestyle to enhance productivity, focus, and overall well-being.
+- 📚 Web and AI startups
 
 Big believer in:
 
@@ -84,9 +70,8 @@ Big believer in:
 
 </details>
 
-## 🥇 Primary technology stack
+<!-- ## 🥇 Primary technology stack
 
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -151,58 +136,9 @@ Big believer in:
 ## 🥉 Tertiary technology stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) -->
 
 ---
-
-## 🎧 Spotify Playing
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31buiwbmk23jwn2tftmreb252ck4)](https://open.spotify.com/user/31buiwbmk23jwn2tftmreb252ck4)
-
----
-
-## Thanks for visiting
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/idimetrix/count.svg">
-
-Counting of visitors to this page in this section started from May 1, 2022
-
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=idimetrix/idimetrix&type=Date)](https://star-history.com/#idimetrix/idimetrix&Date)
-
----
-
-## 🎮 Try pressing the buttons and come back down
-
-<div>
-  <a href="https://www.linkedin.com/in/dimetrix" target="_blank">
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/me64.png" width="300" />
- </a>
-  <br />
-  <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=2&callback=https://github.com/idimetrix" target="_blank">
-    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/up.png" width="35" />
-  </a>
-  <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=1&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/left.png" width="35" /></a>
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=0&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/right.png" width="35" /></a>
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/B.png" width="35" /></a>
-  <a href="https://www.linkedin.com/in/dimetrix?button=4&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/A.png" width="35" /></a> <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=3&callback=https://github.com/idimetrix" target="_blank">
-    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/down.png" width="35" />
-  </a>
-  <br />
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=6&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/select.png" height="35" /></a>
-  <a href="https://www.linkedin.com/in/dimetrix?button=7&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/start.png" height="35" /></a>
-</div>
 
 <!--   GitHub stats graph -->
 
