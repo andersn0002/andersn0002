@@ -184,38 +184,6 @@ graph TD;
 
 <!-- <img src="/github-metrics.svg" alt="Metrics" width="100%"> -->
 
-<!-- New York - My Home-->
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -74.2591,
-              40.4774
-            ],
-            [
-              -73.7004,
-              40.9176
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
 ---
 
 <p align="center">Join our <a href="https://github.com/elevanceit/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Organization">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
