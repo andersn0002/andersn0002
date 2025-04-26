@@ -162,10 +162,6 @@ Big believer in:
 
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
 
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
-
-<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img> -->
-
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
@@ -224,7 +220,7 @@ graph TD;
 
 counting of visitors to this page in this section started from June 12, 2022
 
-![](https://count.getloli.com/get/@idimetrix.github.readme)
+![](https://count.getloli.com/get/@andersn0002.github.readme)
 </br>
 
 [MIT](LICENSE)
